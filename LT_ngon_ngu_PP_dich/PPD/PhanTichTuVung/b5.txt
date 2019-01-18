@@ -1,0 +1,9 @@
+Program p;
+const qmax = 10;
+var x;
+const j = 0;
+
+
+begin
+x := 5 + -5;
+end.

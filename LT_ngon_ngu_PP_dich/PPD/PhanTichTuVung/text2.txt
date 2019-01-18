@@ -1,0 +1,7 @@
+program vd;
+var a, b, c, i, n;
+begin
+	a := b + 5;
+	a := c;
+	for i := 0 to n do a := i + 1
+.

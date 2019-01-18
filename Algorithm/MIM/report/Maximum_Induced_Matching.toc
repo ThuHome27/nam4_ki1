@@ -1,0 +1,18 @@
+\contentsline {chapter}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{2}
+\contentsline {section}{\numberline {1.1}Induced Matching v\IeC {\`a} b\IeC {\`a}i to\IeC {\'a}n Maximum Induced Matching}{2}
+\contentsline {section}{\numberline {1.2}Line graph v\IeC {\`a} Square graph}{3}
+\contentsline {chapter}{\numberline {2}Thu\IeC {\d \acircumflex }t to\IeC {\'a}n th\IeC {\`\ohorn }i gian \IeC {\dj }a th\IeC {\'\uhorn }c \IeC {\dj }\IeC {\'\ocircumflex }i v\IeC {\'\ohorn }i m\IeC {\d \ocircumflex }t v\IeC {\`a}i l\IeC {\'\ohorn }p \IeC {\dj }\IeC {\`\ocircumflex } th\IeC {\d i} quen thu\IeC {\d \ocircumflex }c}{5}
+\contentsline {section}{\numberline {2.1}M\IeC {\d \ocircumflex }t v\IeC {\`a}i l\IeC {\'\ohorn }p \IeC {\dj }\IeC {\`\ocircumflex } th\IeC {\d i} quen thu\IeC {\d \ocircumflex }c}{5}
+\contentsline {section}{\numberline {2.2}Thu\IeC {\d \acircumflex }t to\IeC {\'a}n t\IeC {\`\i }m Induced Matching l\IeC {\'\ohorn }n nh\IeC {\'\acircumflex }t}{7}
+\contentsline {chapter}{\numberline {3}\IeC {\DJ }\IeC {\`\ocircumflex } th\IeC {\d i} h\IeC {\`\i }nh thang}{8}
+\contentsline {section}{\numberline {3.1}\IeC {\DJ }\IeC {\d i}nh ngh\IeC {\~\i }a}{8}
+\contentsline {section}{\numberline {3.2}Maximum induced matching tr\IeC {\^e}n \IeC {\dj }\IeC {\`\ocircumflex } th\IeC {\d i} h\IeC {\`\i }nh thang}{9}
+\contentsline {chapter}{\numberline {4}C\IeC {\^a}y}{10}
+\contentsline {chapter}{\numberline {5}\IeC {\DJ }\IeC {\`\ocircumflex } th\IeC {\d i} Asteroidal triple-free}{12}
+\contentsline {section}{\numberline {5.1}Asteroidal triple-free}{12}
+\contentsline {section}{\numberline {5.2}Line-Asteroidal triple-free graphs}{13}
+\contentsline {chapter}{\numberline {6}\IeC {\DJ }\IeC {\`\ocircumflex } th\IeC {\d i} c\IeC {\'o} Matching v\IeC {\`a} Induced Matching c\IeC {\`u}ng k\IeC {\'\i }ch c\IeC {\~\ohorn } l\IeC {\'\ohorn }n nh\IeC {\'\acircumflex }t}{14}
+\contentsline {section}{\numberline {6.1}Thu\IeC {\d \acircumflex }t to\IeC {\'a}n IM}{14}
+\contentsline {section}{\numberline {6.2}\IeC {\DJ }\IeC {\d \abreve }c tr\IeC {\uhorn }ng c\IeC {\h u}a c\IeC {\'a}c \IeC {\dj }\IeC {\`\ocircumflex } th\IeC {\d i} c\IeC {\'o} IM b\IeC {\`\abreve }ng M}{16}
+\contentsline {chapter}{\numberline {7}\IeC {\DJ }\IeC {\`\ocircumflex } th\IeC {\d i} Hamiltonian}{17}
+\contentsline {chapter}{\numberline {8}T\IeC {\h \ocircumflex }ng k\IeC {\'\ecircumflex }t}{18}

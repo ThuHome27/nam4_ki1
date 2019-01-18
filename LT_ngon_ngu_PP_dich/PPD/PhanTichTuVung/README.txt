@@ -1,0 +1,1 @@
+Mặc định để 1 phím tab có độ dài bằng 4 phím cách.
